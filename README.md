@@ -21,7 +21,7 @@ Before you begin, make sure your system has the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/anil-sudo/hamrokoseli.git
+git clone https://github.com/iamsudhiryadav725-png/Hamro-koseli
 cd hamrokoseli
 ```
 
