@@ -93,6 +93,15 @@ php artisan serve
 
 Now open your browser and visit: **http://127.0.0.1:8000**
 
+<img width="950" height="418" alt="image" src="https://github.com/user-attachments/assets/44a77338-b900-46d2-a1bb-57338e3032d8" />
+<img width="793" height="416" alt="image" src="https://github.com/user-attachments/assets/c6a1fe0b-7bd4-4a93-8f86-72e4fab22ff4" />
+
+**admin login**
+<img width="509" height="378" alt="image" src="https://github.com/user-attachments/assets/d7c624c9-33ac-466b-852b-d992aff28f54" />
+
+
+
+
 ---
 
 ## 🗂️ Project Structure
