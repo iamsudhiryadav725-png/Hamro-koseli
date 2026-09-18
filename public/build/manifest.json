@@ -1,0 +1,75 @@
+{
+  "_fonts-DMOSjcMr.css": {
+    "file": "assets/fonts-DMOSjcMr.css",
+    "src": "_fonts-DMOSjcMr.css"
+  },
+  "_instrument-sans-400-normal-D1W7dsQl.woff": {
+    "file": "assets/instrument-sans-400-normal-D1W7dsQl.woff",
+    "src": "_instrument-sans-400-normal-D1W7dsQl.woff"
+  },
+  "_instrument-sans-400-normal-DRC__1Mx.woff2": {
+    "file": "assets/instrument-sans-400-normal-DRC__1Mx.woff2",
+    "src": "_instrument-sans-400-normal-DRC__1Mx.woff2"
+  },
+  "_instrument-sans-500-normal-Dk9ku72i.woff2": {
+    "file": "assets/instrument-sans-500-normal-Dk9ku72i.woff2",
+    "src": "_instrument-sans-500-normal-Dk9ku72i.woff2"
+  },
+  "_instrument-sans-500-normal-Z6ESRlEs.woff": {
+    "file": "assets/instrument-sans-500-normal-Z6ESRlEs.woff",
+    "src": "_instrument-sans-500-normal-Z6ESRlEs.woff"
+  },
+  "_instrument-sans-600-normal-B7fBEWYG.woff2": {
+    "file": "assets/instrument-sans-600-normal-B7fBEWYG.woff2",
+    "src": "_instrument-sans-600-normal-B7fBEWYG.woff2"
+  },
+  "_instrument-sans-600-normal-B9e8oLYv.woff": {
+    "file": "assets/instrument-sans-600-normal-B9e8oLYv.woff",
+    "src": "_instrument-sans-600-normal-B9e8oLYv.woff"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-BUaO5k2O.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DMhTAohx.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/product-create.js": {
+    "file": "assets/product-create-BqxFnRY4.js",
+    "name": "product-create",
+    "src": "resources/js/product-create.js",
+    "isEntry": true
+  },
+  "resources/js/product-edit.js": {
+    "file": "assets/product-edit-ItYZbtAw.js",
+    "name": "product-edit",
+    "src": "resources/js/product-edit.js",
+    "isEntry": true
+  },
+  "resources/js/seller-profile.js": {
+    "file": "assets/seller-profile-1o-wBFUq.js",
+    "name": "seller-profile",
+    "src": "resources/js/seller-profile.js",
+    "isEntry": true
+  },
+  "resources/js/today-deals.js": {
+    "file": "assets/today-deals-CPKLMaLi.js",
+    "name": "today-deals",
+    "src": "resources/js/today-deals.js",
+    "isEntry": true
+  },
+  "resources/js/user-profile.js": {
+    "file": "assets/user-profile-BZkWkz4C.js",
+    "name": "user-profile",
+    "src": "resources/js/user-profile.js",
+    "isEntry": true
+  }
+}
